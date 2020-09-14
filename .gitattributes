@@ -1,0 +1,6 @@
+.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+feature.csv filter=lfs diff=lfs merge=lfs -text
+단국대천체모형/sample_submission.csv filter=lfs diff=lfs merge=lfs -text
+단국대천체모형/test.csv filter=lfs diff=lfs merge=lfs -text
+단국대천체모형/train.csv filter=lfs diff=lfs merge=lfs -text
