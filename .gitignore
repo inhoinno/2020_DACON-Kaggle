@@ -1,0 +1,9 @@
+
+*.zip
+*.csv
+*.txt
+./소설저자AI/dataset/glove.6B.zip
+./소설저자AI/dataset/glove.6B.50d.txt
+./소설저자AI/dataset/glove.6B.100d.txt
+./소설저자AI/dataset/glove.6B.200d.txt
+./소설저자AI/dataset/glove.6B.300d.txt
