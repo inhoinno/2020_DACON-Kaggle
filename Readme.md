@@ -1,4 +1,4 @@
-# DACON : 3학년 2학기 오픈소스설계 by Inho Song, Dankook UNIV.<br>
+## DACON : 3학년 2학기 오픈소스설계 by Inho Song, Dankook UNIV.<br>
 This is a project for  Data Science and AI competetion, using Machine-Learning and Neural Network.
 
 > 데이터 과학 대회에 나가보자! 
